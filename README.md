@@ -4,7 +4,7 @@ It is same as the below repo but some change we made in this git as per general 
 
 `https://github.com/viralsolani/laravel-api-boilerplate-jwt.git`
 
-## Laravel API Boilerplate (JWT Edition) for Laravel 5.6
+## Laravel API Boilerplate (JWT Edition) for Laravel 5.7
 
 
 # Getting started

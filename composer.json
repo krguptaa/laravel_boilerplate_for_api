@@ -15,10 +15,11 @@
         "creativeorange/gravatar": "~1.0",
         "doctrine/dbal": "^2.6",
         "fideloper/proxy": "~4.0",
-        "laravel/framework": "5.6.*",
+        "laravel/framework": "5.7.*",
         "laravel/tinker": "~1.0",
         "spatie/laravel-cors": "^1.1",
-        "tymon/jwt-auth": "dev-develop"
+        "tymon/jwt-auth": "dev-develop",
+        "dingo/api": "2.0.0-alpha2"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.0",
@@ -32,7 +33,7 @@
     "autoload": {
         "classmap": [
             "database/seeds",
-            "database/factories",
+            "database/factories",	
             "database"
         ],
         "psr-4": {
